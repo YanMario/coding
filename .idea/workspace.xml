@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="_cc_" targetName="_cc_" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3adf70a1-a186-4c03-a183-164e43a1f40b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../chat1.0/client/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/Control.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/Control.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/MyDB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/MyDB.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/TcpServer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/TcpServer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/View.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/View.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/conSer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat1.0/server/conSer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LRU.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode---41.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/二分查找.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libevent_study/Libevent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libevent_study/Libevent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STL/hash的实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c++11/c++11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/关键字/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/21.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大数据/bitmap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/强制类型转换.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/堆排序.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/链表/一个完整的链表.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能指针/循环引用.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/智能指针/智能指针.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛课网/合并区间.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔试/贝壳笔试/源.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类和对象/CGoods.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类和对象/const.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类和对象/实现string类.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/类和对象/类对象的生存周期.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/继承和多态/动多态.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/继承和多态/虚继承.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/单例模式.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2018_12_10/字符串.c" beforeDir="false" afterPath="$PROJECT_DIR$/../2018_12_10/字符串.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C_S_Socket/Socket.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/LeetCode--3---无重复的最长子串.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/LeetCode--3---无重复的最长子串.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/k个有序数组排序.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/k个有序数组排序.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linux/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Linux/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Process_Thread/Thread_Syn_ke_chong_ru_function.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Process_Thread/Thread_Syn_ke_chong_ru_function.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_programming_problem/c语言中字符串相关的库函数实现/strcpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../String_programming_problem/c语言中字符串相关的库函数实现/strcpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzaijunheng/TcpServer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzaijunheng/TcpServer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fuzaijunheng/cli.c" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzaijunheng/cli.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/this/hello.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/this/main.c" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="694770485">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="95" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="8" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="10" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="13" />
+          <entry key="project.open.time.8" value="19" />
+          <entry key="project.open.time.9" value="21" />
+          <entry key="project.opened" value="103" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="algorithm" value="3" />
+          <entry key="c" value="8" />
+          <entry key="cpp" value="176" />
+          <entry key="h" value="7" />
+          <entry key="hpp" value="1" />
+          <entry key="iterator" value="1" />
+          <entry key="ostream" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="vector" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="2" />
+          <entry key="ObjectiveC" value="198" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="1053" />
+          <entry key="cpp" value="82969" />
+          <entry key="h" value="37" />
+          <entry key="mm" value="69" />
+          <entry key="txt" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="42" />
+          <entry key="Doxygen file" value="5" />
+          <entry key="ObjectiveC" value="84123" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="_cc_" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/大数据/bitmap.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6644">
+              <caret line="302" column="5" selection-start-line="302" selection-start-column="5" selection-end-line="302" selection-end-column="5" />
+              <folding>
+                <element signature="e#50#1839#0" expanded="true" />
+                <element signature="e#1854#2512#0" expanded="true" />
+                <element signature="e#2541#3302#0" expanded="true" />
+                <element signature="e#3320#3831#0" expanded="true" />
+                <element signature="e#3850#4765#0" expanded="true" />
+                <element signature="e#4796#5934#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据结构/树/二叉树.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1457">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/设计模式/单例模式.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <element signature="e#47#957#0" expanded="true" />
+                <element signature="e#1021#2419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/STL/hash的实现.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1391">
+              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类和对象/Const_.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类和对象/类对象的生存周期.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类和对象/成员方法.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/类和对象/运算符重载.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#73#571#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/继承和多态/析构函数写成虚函数.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <folding>
+                <element signature="e#42#802#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/STL/unorder_map.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+              <folding>
+                <element signature="e#7284#7736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rele</find>
+      <find>fun</find>
+      <find>bitmap_data</find>
+      <find>Buynode</find>
+      <find>res</find>
+      <find>Record</find>
+      <find>recptr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>test</replace>
+      <replace>Test</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/STL/vector1.cpp" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/模版/函数模版.cpp" />
+        <option value="$PROJECT_DIR$/类和对象/const.cpp" />
+        <option value="$PROJECT_DIR$/类和对象/CGoods.h" />
+        <option value="$PROJECT_DIR$/类和对象/运算符重载.cpp" />
+        <option value="$PROJECT_DIR$/类和对象/函数返回值.cpp" />
+        <option value="$PROJECT_DIR$/类和对象/成员方法.cpp" />
+        <option value="$PROJECT_DIR$/c++11/c++11.cpp" />
+        <option value="$PROJECT_DIR$/Libevent_study/Libevent.h" />
+        <option value="$PROJECT_DIR$/Libevent_study/Libevent.cpp" />
+        <option value="$PROJECT_DIR$/强制类型转换.cpp" />
+        <option value="$PROJECT_DIR$/STL/deque.cpp" />
+        <option value="$PROJECT_DIR$/STL/map.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/LeetCode---41.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/二分查找.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/LeetCode/字符串全排列.cpp" />
+        <option value="$PROJECT_DIR$/继承和多态/动多态.cpp" />
+        <option value="$PROJECT_DIR$/类和对象/类对象的生存周期.cpp" />
+        <option value="$PROJECT_DIR$/智能指针/智能指针.cpp" />
+        <option value="$PROJECT_DIR$/智能指针/循环引用.cpp" />
+        <option value="$PROJECT_DIR$/智能指针/智能指针---0.cpp" />
+        <option value="$PROJECT_DIR$/智能指针/智能指针的实现.cpp" />
+        <option value="$PROJECT_DIR$/数据结构/BST.cpp" />
+        <option value="$PROJECT_DIR$/数据结构/链表/输出链表倒数第K个节点.cpp" />
+        <option value="$PROJECT_DIR$/STL/迭代器失效.cpp" />
+        <option value="$PROJECT_DIR$/STL/vector1.cpp" />
+        <option value="$PROJECT_DIR$/牛课网/合并区间.cpp" />
+        <option value="$PROJECT_DIR$/数据结构/树/二叉树.cpp" />
+        <option value="$PROJECT_DIR$/数据结构/链表/一个完整的链表.cpp" />
+        <option value="$PROJECT_DIR$/STL/unorder_map.cpp" />
+        <option value="$PROJECT_DIR$/STL/priority_queue.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/LRU.cpp" />
+        <option value="$PROJECT_DIR$/剑指offer/11.cpp" />
+        <option value="$PROJECT_DIR$/剑指offer/21.cpp" />
+        <option value="$PROJECT_DIR$/排序/快速排序.cpp" />
+        <option value="$PROJECT_DIR$/排序/堆排序.cpp" />
+        <option value="$PROJECT_DIR$/STL/list.cpp" />
+        <option value="$PROJECT_DIR$/STL/vector.cpp" />
+        <option value="$PROJECT_DIR$/剑指offer/interview question 4.cpp" />
+        <option value="$PROJECT_DIR$/STL/string.cpp" />
+        <option value="$PROJECT_DIR$/继承和多态/析构函数写成虚函数.cpp" />
+        <option value="$PROJECT_DIR$/继承和多态/派生类对象的构造方式.cpp" />
+        <option value="$PROJECT_DIR$/继承和多态/虚继承.cpp" />
+        <option value="$PROJECT_DIR$/关键字/test.cpp" />
+        <option value="$PROJECT_DIR$/关键字/static.cpp" />
+        <option value="$PROJECT_DIR$/类和对象/实现string类.cpp" />
+        <option value="$PROJECT_DIR$/笔试/贝壳笔试/源.cpp" />
+        <option value="$PROJECT_DIR$/剑指offer/字符串逆置.cpp" />
+        <option value="$PROJECT_DIR$/大数据/bitmap.cpp" />
+        <option value="$PROJECT_DIR$/设计模式/单例模式.cpp" />
+        <option value="$PROJECT_DIR$/STL/hash的实现.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="_cc_" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="STL" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="数据结构" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="数据结构" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="树" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="笔试" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="设计模式" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_cc_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="代码复习 c／c+" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="代码复习 c／c+" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="代码复习 c／c+" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer two" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="_cc_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Header Search Paths" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/yanpan/CLionProjects/代码复习 c／c+/类和对象/成员方法.cpp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application._cc_">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_cc_" RUN_TARGET_NAME="_cc_" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_cc_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_cc_" TARGET_NAME="_cc_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_cc_" RUN_TARGET_NAME="_cc_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application._cc_" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3adf70a1-a186-4c03-a183-164e43a1f40b" name="Default" comment="" />
+      <created>1529716398510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529716398510</updated>
+      <workItem from="1529716400999" duration="15936000" />
+      <workItem from="1529824144517" duration="12193000" />
+      <workItem from="1531125920262" duration="2003000" />
+      <workItem from="1531731735234" duration="2034000" />
+      <workItem from="1532251463879" duration="7000" />
+      <workItem from="1532251475250" duration="4379000" />
+      <workItem from="1532329960595" duration="1582000" />
+      <workItem from="1532662368459" duration="648000" />
+      <workItem from="1532675889541" duration="7757000" />
+      <workItem from="1532738766398" duration="180000" />
+      <workItem from="1532835333752" duration="8000" />
+      <workItem from="1536105703834" duration="4000" />
+      <workItem from="1536285358836" duration="32142000" />
+      <workItem from="1536716189054" duration="83000" />
+      <workItem from="1536716320819" duration="5865000" />
+      <workItem from="1536735196685" duration="2647000" />
+      <workItem from="1536744831764" duration="7714000" />
+      <workItem from="1536793312513" duration="8078000" />
+      <workItem from="1538265550929" duration="14334000" />
+      <workItem from="1538383730825" duration="21540000" />
+      <workItem from="1539259534747" duration="2464000" />
+      <workItem from="1539445334432" duration="306000" />
+      <workItem from="1545223032567" duration="345000" />
+      <workItem from="1545223382619" duration="2154000" />
+      <workItem from="1545229880474" duration="2730000" />
+      <workItem from="1546845508451" duration="514000" />
+      <workItem from="1555316844627" duration="6866000" />
+      <workItem from="1555470360112" duration="3635000" />
+      <workItem from="1555574533599" duration="6314000" />
+      <workItem from="1555729110095" duration="1803000" />
+      <workItem from="1555813398400" duration="4217000" />
+      <workItem from="1555914366148" duration="844000" />
+      <workItem from="1555932574722" duration="180000" />
+      <workItem from="1555944151957" duration="11847000" />
+      <workItem from="1556076919253" duration="3260000" />
+      <workItem from="1556250613047" duration="3964000" />
+      <workItem from="1556447921155" duration="3892000" />
+      <workItem from="1556526004906" duration="5905000" />
+      <workItem from="1556590474867" duration="14827000" />
+      <workItem from="1556675340932" duration="860000" />
+      <workItem from="1556931652125" duration="4005000" />
+      <workItem from="1557019779224" duration="5270000" />
+      <workItem from="1557189436990" duration="8665000" />
+      <workItem from="1557237639815" duration="761000" />
+      <workItem from="1557299754900" duration="12941000" />
+      <workItem from="1557400236536" duration="10324000" />
+      <workItem from="1557472801339" duration="3306000" />
+      <workItem from="1557552348109" duration="22651000" />
+      <workItem from="1557907672630" duration="51000" />
+      <workItem from="1558079805031" duration="575000" />
+      <workItem from="1558232555244" duration="1671000" />
+      <workItem from="1558313045143" duration="8899000" />
+      <workItem from="1558336081767" duration="510000" />
+      <workItem from="1558360326287" duration="796000" />
+      <workItem from="1558509436975" duration="333000" />
+      <workItem from="1558510488858" duration="2491000" />
+      <workItem from="1558513555317" duration="491000" />
+      <workItem from="1558514441588" duration="360000" />
+      <workItem from="1558587011960" duration="717000" />
+      <workItem from="1558679440607" duration="866000" />
+      <workItem from="1558747679869" duration="376000" />
+      <workItem from="1558845679039" duration="1088000" />
+      <workItem from="1559389163240" duration="3500000" />
+      <workItem from="1559660181726" duration="1507000" />
+      <workItem from="1560064840941" duration="3086000" />
+      <workItem from="1560166799280" duration="3520000" />
+      <workItem from="1560243775543" duration="6470000" />
+      <workItem from="1560297993060" duration="5951000" />
+      <workItem from="1560512648586" duration="681000" />
+      <workItem from="1560762160945" duration="963000" />
+      <workItem from="1561129712414" duration="6914000" />
+      <workItem from="1561419128185" duration="598000" />
+      <workItem from="1561602946771" duration="1469000" />
+      <workItem from="1561605013921" duration="369000" />
+      <workItem from="1561605535708" duration="2617000" />
+      <workItem from="1561642508257" duration="209000" />
+      <workItem from="1561699962107" duration="664000" />
+      <workItem from="1561946833031" duration="8999000" />
+      <workItem from="1562046081525" duration="1288000" />
+      <workItem from="1562049079438" duration="6454000" />
+      <workItem from="1562136592046" duration="2312000" />
+      <workItem from="1562226693029" duration="1121000" />
+      <workItem from="1562240447636" duration="3020000" />
+      <workItem from="1562312174018" duration="895000" />
+      <workItem from="1562371456329" duration="4237000" />
+      <workItem from="1562855109774" duration="34000" />
+      <workItem from="1563064133995" duration="643000" />
+      <workItem from="1563074476862" duration="3539000" />
+      <workItem from="1563152987947" duration="726000" />
+      <workItem from="1563170040375" duration="259000" />
+      <workItem from="1563236014926" duration="4815000" />
+      <workItem from="1563331042042" duration="3953000" />
+      <workItem from="1563508783099" duration="975000" />
+      <workItem from="1563512383576" duration="365000" />
+      <workItem from="1563968255543" duration="598000" />
+      <workItem from="1564202732968" duration="4077000" />
+      <workItem from="1564227128216" duration="4793000" />
+      <workItem from="1564278476193" duration="9877000" />
+      <workItem from="1564462148331" duration="661000" />
+      <workItem from="1564489156854" duration="4949000" />
+      <workItem from="1564496997120" duration="162000" />
+      <workItem from="1564558259201" duration="81000" />
+      <workItem from="1564558368976" duration="2286000" />
+      <workItem from="1564649013353" duration="13524000" />
+      <workItem from="1564831150967" duration="1613000" />
+      <workItem from="1564920772215" duration="11647000" />
+      <workItem from="1565222817784" duration="5975000" />
+      <workItem from="1565333616067" duration="29499000" />
+      <workItem from="1565521064100" duration="5109000" />
+      <workItem from="1565576761947" duration="5915000" />
+      <workItem from="1565661527011" duration="4770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="490897000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49885058" visible="true" weight="0.35945073" />
+      <window_info id="Structure" order="1" sideWeight="0.5011494" side_tool="true" weight="0.2494043" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011494" side_tool="true" weight="0.2494043" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49757674" weight="0.52465755" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.39863014" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024233" side_tool="true" weight="0.5273973" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp</url>
+          <line>497</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp</url>
+          <line>487</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp</url>
+          <line>483</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp</url>
+          <line>592</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp</url>
+          <line>585</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp</url>
+          <line>589</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="vec[1][1][0]" language="ObjectiveC" />
+        <watch expression="nums[0]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>nums[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vec[1][1][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vec[i][j][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vec[2]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*it</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vec[0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vec</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/数据结构/BST.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14014">
+          <caret line="637" selection-start-line="637" selection-end-line="637" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/迭代器失效.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/vector1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模版/函数模版.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libevent_study/Libevent.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2728">
+          <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/log/http_demo/Client.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能指针/循环引用.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/智能指针/智能指针的实现.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/牛课网/合并区间.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/链表/输出链表倒数第K个节点.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/map.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础代码复习&amp;练习/数组.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/11.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/deque.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/priority_queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/21.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/字符串全排列.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C库函数的实现/strncpy.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/堆排序.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/list.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/my_newab.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8712">
+          <caret line="396" column="37" selection-start-line="396" selection-start-column="30" selection-end-line="396" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/vector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17028">
+          <caret line="774" column="38" selection-start-line="774" selection-start-column="38" selection-end-line="774" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/快速排序.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="119" column="5" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C库函数的实现/strcpy.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数返回值返回局部变量地址/函数外不能返回局部变量地址.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/二分查找.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/LRU.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/链表/一个完整的链表.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="145" column="18" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/interview question 4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3278">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/string.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/继承和多态/派生类对象的构造方式.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/继承和多态/虚继承.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关键字/static.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关键字/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类和对象/实现string类.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32890">
+          <caret line="1495" selection-start-line="1495" selection-end-line="1495" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/ostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="451" column="40" selection-start-line="451" selection-start-column="40" selection-end-line="451" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔试/贝壳笔试/源.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="199" column="6" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/字符串逆置.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10406">
+          <caret line="473" column="5" selection-start-line="473" selection-start-column="5" selection-end-line="473" selection-end-column="5" />
+          <folding>
+            <element signature="e#650#1841#0" expanded="true" />
+            <element signature="e#1866#2879#0" expanded="true" />
+            <element signature="e#3950#5883#0" expanded="true" />
+            <element signature="e#5901#6890#0" expanded="true" />
+            <element signature="e#6907#8370#0" expanded="true" />
+            <element signature="e#8385#8486#0" expanded="true" />
+            <element signature="e#8495#8870#0" expanded="true" />
+            <element signature="e#8885#9440#0" expanded="true" />
+            <element signature="e#9458#10009#0" expanded="true" />
+            <element signature="e#10024#11271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57288">
+          <caret line="2604" selection-start-line="2604" selection-end-line="2604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类和对象/函数返回值.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类和对象/Const_.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类和对象/类对象的生存周期.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类和对象/成员方法.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/类和对象/运算符重载.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#73#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/继承和多态/析构函数写成虚函数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding>
+            <element signature="e#42#802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/unorder_map.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+          <folding>
+            <element signature="e#7284#7736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设计模式/单例模式.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="e#47#957#0" expanded="true" />
+            <element signature="e#1021#2419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大数据/bitmap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6644">
+          <caret line="302" column="5" selection-start-line="302" selection-start-column="5" selection-end-line="302" selection-end-column="5" />
+          <folding>
+            <element signature="e#50#1839#0" expanded="true" />
+            <element signature="e#1854#2512#0" expanded="true" />
+            <element signature="e#2541#3302#0" expanded="true" />
+            <element signature="e#3320#3831#0" expanded="true" />
+            <element signature="e#3850#4765#0" expanded="true" />
+            <element signature="e#4796#5934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/树/二叉树.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1457">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL/hash的实现.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1391">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
