@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(_cc_)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(_cc_ main.cpp "剑指offer/interview question 3.c" "剑指offer/interview question 4.cpp" "剑指offer/interview question 5.cpp" "剑指offer/interview question 6.cpp" "剑指offer two/interview question 3.cpp" 函数返回值返回局部变量地址/函数外不能返回局部变量地址.cpp "剑指offer two/interview question 4.cpp" "LeetCode-cpp/2.1-Remove Duplicates from Sorted Array.cpp" STL/vector.cpp 模版/函数模版.cpp 类和对象/成员方法.cpp 类和对象/函数返回值.cpp STL/vector1.cpp 笔试题/类型转换.cpp "剑指offer/interview question 1.cpp" "剑指offer/interview question 2.cpp" C库函数的实现/strcpy.c 笔试/好未来笔试题/小明的序列.cpp STL/unorder_map.cpp STL/map.cpp 类和对象/const.cpp 类和对象/Const_.cpp c++11/c++11.cpp 继承和多态/动多态.cpp 类和对象/运算符重载.cpp 类和对象/类对象的生存周期.cpp 类和对象/CGoods.h Libevent_study/Libevent.cpp Libevent_study/Libevent.h 继承和多态/派生类对象的构造方式.cpp 强制类型转换.cpp STL/deque.cpp LeetCode/LeetCode---41.cpp LeetCode/二分查找.cpp LeetCode/字符串全排列.cpp 智能指针/智能指针.cpp 智能指针/循环引用.cpp 智能指针/智能指针的实现.cpp 继承和多态/析构函数写成虚函数.cpp 智能指针/智能指针---0.cpp 数据结构/BST.cpp C库函数的实现/strncpy.cpp 数据结构/链表/输出链表倒数第K个节点.cpp 数据结构/链表/一个完整的链表.cpp STL/迭代器失效.cpp 数据结构/树/二叉树.cpp 牛课网/合并区间.cpp 排序/快速排序.cpp 排序/堆排序.cpp STL/priority_queue.cpp LeetCode/LRU.cpp 剑指offer/11.cpp 剑指offer/21.cpp 剑指offer/字符串逆置.cpp STL/list.cpp STL/string.cpp 继承和多态/虚继承.cpp 设计模式/单例模式.cpp 关键字/static.cpp 关键字/test.cpp 类和对象/实现string类.cpp 笔试/贝壳笔试/源.cpp 大数据/bitmap.cpp STL/hash的实现.cpp)
